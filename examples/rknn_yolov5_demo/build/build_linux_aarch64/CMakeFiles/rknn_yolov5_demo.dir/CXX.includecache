@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../include/postprocess.h
+stdint.h
+-
+vector
+-
+
+/home/liangchuan/Development/rk3588/rknpu2_1.4.0_20220909/examples/rknn_yolov5_demo/src/postprocess.cc
+postprocess.h
+/home/liangchuan/Development/rk3588/rknpu2_1.4.0_20220909/examples/rknn_yolov5_demo/src/postprocess.h
+math.h
+-
+stdint.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/time.h
+-
+iostream
+-
+set
+-
+vector
+-
+

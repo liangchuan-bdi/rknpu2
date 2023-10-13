@@ -1,0 +1,7 @@
+/home/liangchuan/Development/rk3588/rknpu2_1.4.0_20220909/examples/rknn_yolov7_demo/build/build_linux_aarch64/CMakeFiles/install/strip.dir
+/home/liangchuan/Development/rk3588/rknpu2_1.4.0_20220909/examples/rknn_yolov7_demo/build/build_linux_aarch64/CMakeFiles/install/local.dir
+/home/liangchuan/Development/rk3588/rknpu2_1.4.0_20220909/examples/rknn_yolov7_demo/build/build_linux_aarch64/CMakeFiles/edit_cache.dir
+/home/liangchuan/Development/rk3588/rknpu2_1.4.0_20220909/examples/rknn_yolov7_demo/build/build_linux_aarch64/CMakeFiles/install.dir
+/home/liangchuan/Development/rk3588/rknpu2_1.4.0_20220909/examples/rknn_yolov7_demo/build/build_linux_aarch64/CMakeFiles/list_install_components.dir
+/home/liangchuan/Development/rk3588/rknpu2_1.4.0_20220909/examples/rknn_yolov7_demo/build/build_linux_aarch64/CMakeFiles/rebuild_cache.dir
+/home/liangchuan/Development/rk3588/rknpu2_1.4.0_20220909/examples/rknn_yolov7_demo/build/build_linux_aarch64/CMakeFiles/rknn_yolov7_demo.dir

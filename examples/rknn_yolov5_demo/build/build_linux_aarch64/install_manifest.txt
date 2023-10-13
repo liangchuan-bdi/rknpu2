@@ -1,0 +1,8 @@
+/home/liangchuan/Development/rk3588/rknpu2_1.4.0_20220909/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/./rknn_yolov5_demo
+/home/liangchuan/Development/rk3588/rknpu2_1.4.0_20220909/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/lib/librknnrt.so
+/home/liangchuan/Development/rk3588/rknpu2_1.4.0_20220909/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/lib/librga.so
+/home/liangchuan/Development/rk3588/rknpu2_1.4.0_20220909/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/.//model/bus.jpg
+/home/liangchuan/Development/rk3588/rknpu2_1.4.0_20220909/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/.//model/RK3588/yolov5s-640-640.rknn
+/home/liangchuan/Development/rk3588/rknpu2_1.4.0_20220909/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/.//model/RK356X/yolov5s-640-640.rknn
+/home/liangchuan/Development/rk3588/rknpu2_1.4.0_20220909/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/.//model/coco_80_labels_list.txt
+/home/liangchuan/Development/rk3588/rknpu2_1.4.0_20220909/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/.//model/RV110X/yolov5s-640-640.rknn
